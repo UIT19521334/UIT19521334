@@ -13,7 +13,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=UIT19521334&theme=algolia" alt="SubhadeepZilong" width = 250px /></p>
 
 <br>
 
