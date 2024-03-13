@@ -52,8 +52,8 @@
 - **Mobile Development**:
 
    ![ReactNative](https://img.shields.io/badge/ReactNative%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-   ![Android](https://img.shields.io/badge/Android%20-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
-   ![IOS](https://img.shields.io/badge/IOS%20-%23147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white)
+   ![Android](https://img.shields.io/badge/Android%20-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=black)
+   ![IOS](https://img.shields.io/badge/IOS%20-%23147EFB.svg?style=for-the-badge&logo=xcode&logoColor=black)
 
 <br>
 
