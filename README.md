@@ -46,8 +46,11 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![MUI](https://img.shields.io/badge/MUI%20-%23007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)
+
 <br> 
+
 - **Mobile Development**:
+
    ![ReactNative](https://img.shields.io/badge/ReactNative%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
    ![Android](https://img.shields.io/badge/Android%20-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
    ![IOS](https://img.shields.io/badge/IOS%20-%23147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white)
