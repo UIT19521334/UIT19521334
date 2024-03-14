@@ -52,6 +52,7 @@
 - **Mobile Development**:
 
    ![ReactNative](https://img.shields.io/badge/ReactNative%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+   ![AppCenter](https://img.shields.io/badge/AppCenter%20-%23CB2E6D.svg?style=for-the-badge&logo=visualstudioappcenter&logoColor=black)
    ![Android](https://img.shields.io/badge/Android%20-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
    ![IOS](https://img.shields.io/badge/IOS%20-%23147EFB.svg?style=for-the-badge&logo=appstore&logoColor=white)
 
@@ -72,7 +73,7 @@
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
     ![Jira](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=jira&logoColor=black) 
     ![AzureDevops](https://img.shields.io/badge/AzureDevops-%23078D7?style=for-the-badge&logo=azuredevops&logoColor=black) 
-    ![Jigma](https://img.shields.io/badge/Jigma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=black) 
+    ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=black) 
 
 <br>
 
