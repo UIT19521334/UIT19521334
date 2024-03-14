@@ -71,9 +71,9 @@
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-    ![Jira](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=jira&logoColor=black) 
-    ![AzureDevops](https://img.shields.io/badge/AzureDevops-%23078D7?style=for-the-badge&logo=azuredevops&logoColor=black) 
-    ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=black) 
+    ![Jira](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=jira&logoColor=white) 
+    ![AzureDevops](https://img.shields.io/badge/AzureDevops-%23078D7?style=for-the-badge&logo=azuredevops&logoColor=white) 
+    ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 
 <br>
 
