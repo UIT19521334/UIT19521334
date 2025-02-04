@@ -53,7 +53,7 @@
 
    ![ReactNative](https://img.shields.io/badge/ReactNative%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
    ![AppCenter](https://img.shields.io/badge/AppCenter%20-%23CB2E6D.svg?style=for-the-badge&logo=visualstudioappcenter&logoColor=white)
-   ![Expo](https://img.shields.io/badge/AppCenter%20-%23CB2E6D.svg?style=for-the-badge&logo=expo&logoColor=white)
+   ![Expo](https://img.shields.io/badge/Expo%20-%23212f3c.svg?style=for-the-badge&logo=expo&logoColor=white)
    ![Android](https://img.shields.io/badge/Android%20-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
    ![IOS](https://img.shields.io/badge/IOS%20-%23147EFB.svg?style=for-the-badge&logo=appstore&logoColor=white)
 
